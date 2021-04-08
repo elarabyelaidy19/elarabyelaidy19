@@ -1,15 +1,13 @@
+### Hi there 👋, my name is Elaraby ELaidy
+#### coding for bored. actually, I'm always bored ):
 
-### Hi there 👋, My Name is Elaraby Elaidy 
-#### I do coding for boring,  actually I'm always bored 
+Skills: Ruby / Ruby on Rails / JS / HTML / CSS 
 
-Skills:  HTML / CSS / JS / Ruby / Rails / Rspecs / git / 
-
-- 🔭 I’m currently working on My Blog  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Elarabyelaidy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ruby.svg' alt='ruby' height='40'>](https://iconarchive.com/show/crystal-clear-icons-by-everaldo/App-ksokoban-ruby-icon.html)  
+- 🔭 I’m currently working on this page. 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElarabyElaidy)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/elarabyelaidy19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://iconarchive.com/show/developer-icons-by-graphics-vibe/javascript-icon.html)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ruby.svg' alt='ruby' height='40'>](https://iconarchive.com/show/real-vista-development-icons-by-iconshock/ruby-icon.html)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elarabyelaidy19&show_icons=true)  
 
+![Profile views](https://gpvc.arturio.dev/elarabyelaidy19)  
