@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Elaraby ELaidy
-#### coding for bored. actually, I'm always bored ):
 
 Skills: Ruby / Ruby on Rails / JS / HTML / CSS 
 
