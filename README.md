@@ -1,13 +1,3 @@
-### Hi there 👋, my name is Elaraby ELaidy
-
-Skills: Ruby / Ruby on Rails / JS / HTML / CSS 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/elarabyelaidy19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://iconarchive.com/show/developer-icons-by-graphics-vibe/javascript-icon.html)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ruby.svg' alt='ruby' height='40'>](https://iconarchive.com/show/real-vista-development-icons-by-iconshock/ruby-icon.html)  
-
-
-
- 
- 
 
 ![Visitor Count](https://profile-counter.glitch.me/elarabyelaidy19/count.svg)
 
@@ -37,10 +27,10 @@ Skills: Ruby / Ruby on Rails / JS / HTML / CSS
 ![macOS](https://img.shields.io/badge/-macOS-gray?style=flat-square&logo=apple)
 ![Qemu](https://img.shields.io/badge/-QEMU-gray?style=flat-square&logo=qemu)
 
-<!--[![Ahmed Yakout StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5299155&theme=dark&layout=compact)](https://stackoverflow.com/users/5299155/yakout)
+<!--[![Ahmed Yakout StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5299155&theme=dark&layout=compact)](https://stackoverflow.com/users/5299155/yakout) -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yakout&count_private=true&show_icons=true&include_all_commits=true&theme=dark)    [![FreeBSD Foundation Donor](https://freebsdfoundation.org/wp-content/uploads/2015/12/proud_donor.gif)](https://freebsdfoundation.org/donate)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakout&hide=TeX&layout=compact) -->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=elarabyelaisy19&count_private=true&show_icons=true&include_all_commits=true&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elarabyelaidy19&hide=TeX&layout=compact) -->
 
 
 <!--
