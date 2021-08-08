@@ -30,7 +30,7 @@
 
 <!--[![Ahmed Yakout StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5299155&theme=dark&layout=compact)](https://stackoverflow.com/users/5299155/yakout) -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=elarabyelaisy19&count_private=true&show_icons=true&include_all_commits=true&theme=dark) 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=elarabyelaidy19&count_private=true&show_icons=true&include_all_commits=true&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elarabyelaidy19&hide=TeX&layout=compact) 
 
 
