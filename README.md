@@ -2,8 +2,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/elarabyelaidy19/count.svg)
 
 [![Years Badge](https://badges.pufler.dev/years/elarabyelaidy19)](https://badges.pufler.dev)
-![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=Ruby)
 
+![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=Ruby)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
@@ -13,8 +13,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux)
 ![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-gray?style=flat-square&logo=ubuntu)
+
 <!--[Golang](https://img.shields.io/badge/-Golang-gray?style=flat-square&logo=Go) 
 <!--![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) 
 ![Redis](https://img.shields.io/badge/-Redis-gray?style=flat-square&logo=Redis)
