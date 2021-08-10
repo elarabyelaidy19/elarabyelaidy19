@@ -11,9 +11,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux)
-![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-gray?style=flat-square&logo=ubuntu)
+
 
 <!--[Golang](https://img.shields.io/badge/-Golang-gray?style=flat-square&logo=Go) 
 <!--![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) 
