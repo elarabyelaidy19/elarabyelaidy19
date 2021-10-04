@@ -34,10 +34,10 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=elarabyelaidy19&count_private=true&show_icons=true&include_all_commits=true&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elarabyelaidy19&hide=TeX&layout=compact) 
 
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elarabyelaidy19&show_icons=true&locale=en&layout=compact" alt="elarabyelaidy19" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elarabyelaidy19&show_icons=true&locale=en" alt="elarabyelaidy19" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elarabyelaidy19&" alt="elarabyelaidy19" /></p>
-
+-->
 
 
