@@ -17,6 +17,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenishantsapkota&show_icons=true&locale=en&layout=compact" alt="thenishantsapkota" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thenishantsapkota&show_icons=true&locale=en" alt="thenishantsapkota" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenishantsapkota&" alt="thenishantsapkota" /></p>
 
 <!--[Golang](https://img.shields.io/badge/-Golang-gray?style=flat-square&logo=Go) 
 <!--![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) 
