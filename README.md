@@ -16,7 +16,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elarabyelaidy19&hide=TeX&layout=compact) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=elarabyelaidy19&theme=dark)](https://git.io/streak-stats)
 <!--[Golang](https://img.shields.io/badge/-Golang-gray?style=flat-square&logo=Go) 
 <!--![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) 
 ![Redis](https://img.shields.io/badge/-Redis-gray?style=flat-square&logo=Redis)
@@ -27,13 +28,13 @@
 ![Manjaro](https://img.shields.io/badge/-Manjaro-gray?style=flat-square&logo=manjaro)
 ![ArchLinux](https://img.shields.io/badge/-archlinux-gray?style=flat-square&logo=archlinux)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-gray?style=flat-square&logo=freebsd)
-![macOS](https://img.shields.io/badge/-macOS-gray?style=flat-square&logo=apple)
+![macOS](https://img.shields.io/badge/-macOS-gray?style=flat-square&logo=apple) 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=elarabyelaidy19&count_private=true&show_icons=true&include_all_commits=true&theme=dark) 
 ![Qemu](https://img.shields.io/badge/-QEMU-gray?style=flat-square&logo=qemu) -->
 <!-- ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch) -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=elarabyelaidy19&count_private=true&show_icons=true&include_all_commits=true&theme=dark) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elarabyelaidy19&hide=TeX&layout=compact) 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=elarabyelaidy19&theme=dark)](https://git.io/streak-stats)
+
+
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elarabyelaidy19&show_icons=true&locale=en&layout=compact" alt="elarabyelaidy19" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elarabyelaidy19&show_icons=true&locale=en" alt="elarabyelaidy19" /></p>
