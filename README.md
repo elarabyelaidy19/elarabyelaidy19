@@ -33,7 +33,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=elarabyelaidy19&count_private=true&show_icons=true&include_all_commits=true&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elarabyelaidy19&hide=TeX&layout=compact) 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=elarabyelaidy19)](https://git.io/streak-stats)
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elarabyelaidy19&show_icons=true&locale=en&layout=compact" alt="elarabyelaidy19" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elarabyelaidy19&show_icons=true&locale=en" alt="elarabyelaidy19" /></p>
